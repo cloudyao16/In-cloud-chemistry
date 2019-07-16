@@ -1,0 +1,25 @@
+Job starting at Wed Jun 26 16:43:35 CDT 2019
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1     0s      53       0       0        0         0       0     0s     0s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1    60s      53       0       0        0         0       0    34s   306s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1   120s      53       0       0        0         0       0   102s   410s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1   180s      53       0       0        0         0       0   160s   373s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1   240s      53       0       0        0         0       0   210s   315s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1   300s      53       0       0        0         0       0   257s   257s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1   360s      53       0       0        0         0       0   302s   201s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1   420s      53       0       0        0         0       0   346s   148s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1   480s      53       0       0        0         0       0   388s    97s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1   540s      53       0       0        0         0       0   428s    48s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1   600s      53       0       0        0         0       0   467s     0s
+ 
+Job finished at Wed Jun 26 16:51:22 CDT 2019

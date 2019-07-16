@@ -1,0 +1,13 @@
+# page 430 Seinfeld & Pandis: remote continental
+mode_name init_neut
+mass_frac aero_neut_comp.dat      # composition proportions of species
+mode_type mono                    # type of distribution
+num_conc 4e8                      # particle number concentration (#/m^3)
+diam 1e-7                         # geometric mean diameter (m)
+#log10_geom_std_dev 0.301         # log_10 of geometric std dev of diameter
+
+mode_name init_acid
+mass_frac aero_acid_comp.dat      # composition proportions of species
+mode_type mono                    # type of distribution
+num_conc 4e8                      # particle number concentration (#/m^3)
+diam 1e-7                         # geometric mean diameter (m)

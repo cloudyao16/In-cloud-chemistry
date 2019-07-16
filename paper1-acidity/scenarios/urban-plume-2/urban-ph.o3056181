@@ -1,0 +1,293 @@
+Job starting at Sun Jun  2 12:23:37 CDT 2019
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1     0s    1894       0       0        0         0       0     0s     0s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1   600s    1045      14     159       81        83       0     2s   246s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1  1200s    1133      12     114       64        78       0     3s   200s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1  1800s    1245      10     107       78        63       0     4s   191s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1  2400s    1295      21      89       50        68       0     5s   190s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1  3000s    1366      16     109       60        82       0     7s   192s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1  3600s    1443      17     108       55        69       0     9s   197s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1  4200s    1463      20      83       52        95       0    10s   199s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1  4800s    1510      18      80       50        65       0    12s   201s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1  5400s    1555      25      82       62        74       0    13s   202s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1  6000s    1585      15      87       47        89       0    15s   203s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1  6600s    1606      30      79       47        75       0    17s   203s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1  7200s    1625      31      75       41        66       0    19s   204s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1  7800s    1640      27      77       40        75       0    20s   204s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1  8400s    1635      16      53       34        76       0    22s   204s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1  9000s    1648      18      70       36        75       0    24s   203s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1  9600s    1661      23      65       42        71       0    25s   203s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1 10200s    1677      27      67       46        70       0    27s   202s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1 10800s    1672      31      54       38        66       0    29s   202s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1 11400s    1671      26      50       24        49       0    30s   201s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1 12000s    1667      13      38       33        62       0    32s   199s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1 12600s    1677      22      52       31        51       0    34s   198s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1 13200s    1719      18      64       39        43       0    36s   197s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1 13800s    1719      26      51       28        53       0    37s   196s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1 14400s    1729      24      49       30        45       0    39s   195s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1 15000s    1752      24      56        7        16       0    41s   194s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1 15600s    1762      21      43        8        20       0    42s   193s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1 16200s    1758      26      45        4        27       0    44s   191s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1 16800s    1776      26      53       11        20       0    46s   190s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1 17400s    1809      17      58        8        16       0    48s   189s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1 18000s    1832      21      52       12        20       0    50s   188s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1 18600s    1844      21      53        8        28       0    51s   187s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1 19200s    1875      23      59       11        16       0    53s   186s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1 19800s    1883      18      38        7        19       0    55s   186s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1 20400s    1916      10      46       13        16       0    57s   185s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1 21000s    1935      24      50       15        22       0    59s   184s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1 21600s    1965      19      60       13        24       0    61s   183s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1 22200s    1982      22      48       10        19       0    63s   182s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1 22800s    1000      13      33        7         9       0    65s   180s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1 23400s    1013       8      30        4        13       0    66s   177s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1 24000s    1032      14      30        8         5       0    67s   174s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1 24600s    1050       7      27        3         5       0    68s   170s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1 25200s    1056      11      24        2         9       0    69s   167s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1 25800s    1070       6      22        1         3       0    70s   165s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1 26400s    1069      12      15        4         8       0    71s   162s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1 27000s    1076       8      21        5        11       0    72s   159s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1 27600s    1098       7      31        6         8       0    73s   156s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1 28200s    1112       6      31        3        14       0    75s   154s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1 28800s    1119      13      27        4        11       0    76s   151s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1 29400s    1131      15      26        7         6       0    77s   149s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1 30000s    1143       5      29        4        16       0    78s   147s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1 30600s    1163       9      35        3         9       0    79s   145s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1 31200s    1176       7      26        6        12       0    81s   142s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1 31800s    1193       9      29        5         8       0    82s   140s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1 32400s    1196      20      29        6        12       0    83s   138s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1 33000s    1205      14      28        3         8       0    84s   136s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1 33600s    1208      17      30        5        15       0    86s   134s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1 34200s    1219      17      33        7        12       0    87s   133s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1 34800s    1228      11      31        2        13       0    88s   131s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1 35400s    1233      10      26        6        17       0    89s   129s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1 36000s    1241      15      29        4        10       0    98s   137s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1 36600s    1236      15      29        3        22       0   103s   140s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1 37200s    1255       9      32        6        10       0   106s   140s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1 37800s    1262      16      25        6         8       0   108s   139s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1 38400s    1278      12      34        4        10       0   110s   137s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1 39000s    1284      16      28        7        13       0   112s   136s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1 39600s    1286      21      32        3        12       0   114s   135s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1 40200s    1289      21      35        6        17       0   116s   133s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1 40800s    1290      17      34        1        17       0   118s   132s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1 41400s    1301      14      31        3         9       0   120s   130s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1 42000s    1293      18      24        2        16       0   122s   128s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1 42600s    1288      11      19        2        15       0   123s   127s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1 43200s    1306      17      35       10        10       0   125s   125s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1 43800s    1284      21       0        4         5       0   127s   124s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1 44400s    1260      17       0        2         9       0   129s   122s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1 45000s    1235      16       0        4        13       0   131s   120s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1 45600s    1210      19       0        4        10       0   133s   119s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1 46200s    1195      14       0        5         6       0   134s   117s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1 46800s    1183       7       0        7        12       0   136s   115s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1 47400s    1164      11       0        4        12       0   138s   113s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1 48000s    1153       9       0        5         7       0   139s   111s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1 48600s    1128      18       0        4        11       0   141s   109s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1 49200s    1109      11       0        4        12       0   142s   108s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1 49800s    1086      18       0        5        10       0   144s   106s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1 50400s    1074      11       0        7         8       0   145s   104s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1 51000s    1056       9       0        4        13       0   147s   102s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1 51600s    1046       9       0        7         8       0   148s   100s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1 52200s    1034       9       0        2         5       0   149s    98s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1 52800s    1018       9       0        2         9       0   151s    96s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1 53400s    1003       7       0        5        13       0   152s    94s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1 54000s     996       9       0        5         3       0   154s    92s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1 54600s     989       5       0        6         8       0   155s    90s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1 55200s     968      10       0        1        12       0   156s    88s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1 55800s     958      11       0        7         6       0   158s    86s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1 56400s     947       9       0        3         5       0   159s    85s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1 57000s     935      13       0        6         5       0   160s    83s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1 57600s     925       6       0        3         7       0   161s    81s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1 58200s     918       5       0        4         6       0   163s    79s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1 58800s     904       5       0        2        11       0   164s    77s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1 59400s     894       4       0        4        10       0   165s    75s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1 60000s     881      13       0        6         6       0   166s    73s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1 60600s     874       6       0        7         8       0   167s    71s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1 61200s     861      11       0        7         9       0   169s    69s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1 61800s     852      10       0        4         3       0   170s    68s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1 62400s     842       5       0        4         9       0   171s    66s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1 63000s     836       6       0        5         5       0   172s    64s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1 63600s     820      11       0        4         9       0   173s    62s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1 64200s     808       6       0        4        10       0   174s    60s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1 64800s     798       5       0        4         9       0   175s    58s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1 65400s     786       7       0        1         6       0   177s    57s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1 66000s     770       8       0        2        10       0   178s    55s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1 66600s     763       4       0        3         6       0   179s    53s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1 67200s     756       7       0        5         5       0   180s    51s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1 67800s     750       8       0        5         3       0   181s    50s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1 68400s     745       5       0        6         6       0   182s    48s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1 69000s     736       7       0        5         7       0   183s    46s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1 69600s     728       5       0        4         7       0   184s    44s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1 70200s     723       4       0        4         5       0   185s    43s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1 70800s     712       3       0        3        11       0   186s    41s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1 71400s     709       9       0        9         3       0   187s    39s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1 72000s     699       5       0        2         7       0   188s    38s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1 72600s     694       6       0        6         5       0   189s    36s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1 73200s     690       3       0        3         4       0   189s    34s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1 73800s     680      12       0        5         3       0   190s    33s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1 74400s     680       3       0        4         1       0   191s    31s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1 75000s     676       4       0        4         4       0   192s    29s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1 75600s     672       6       0        4         2       0   193s    28s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1 76200s     672       1       0        3         2       0   194s    26s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1 76800s     662       3       0        0         7       0   195s    24s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1 77400s     659       2       0        4         5       0   196s    23s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1 78000s     656       3       0        7         7       0   197s    21s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1 78600s     655       1       0        6         6       0   198s    20s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1 79200s     653       1       0        1         2       0   199s    18s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1 79800s     653       3       0        7         4       0   199s    16s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1 80400s     646       6       0        3         4       0   200s    15s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1 81000s     638       4       0        2         6       0   201s    13s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1 81600s     639       2       0        6         3       0   202s    12s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1 82200s     641       0       0        8         6       0   203s    10s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1 82800s     638       3       0        6         6       0   204s     9s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1 83400s     636       2       0        8         8       0   205s     7s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1 84000s     626       5       0        4         9       0   205s     6s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1 84600s     614       4       0        3        11       0   206s     4s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1 85200s     615       2       0        5         2       0   207s     3s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1 85800s     615       1       0        5         4       0   208s     1s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1 86400s     607       6       0        2         4       0   209s     0s
+ 
+Job finished at Sun Jun  2 12:27:06 CDT 2019

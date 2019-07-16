@@ -1,0 +1,63 @@
+Job starting at Sun Jun  2 12:47:56 CDT 2019
+WARNING (PartMC-532446093): kernel upper bound estimation is too tight, could be caused by changing env_state
+WARNING (PartMC-532446093): kernel upper bound estimation is too tight, could be caused by changing env_state
+WARNING (PartMC-532446093): kernel upper bound estimation is too tight, could be caused by changing env_state
+WARNING (PartMC-532446093): kernel upper bound estimation is too tight, could be caused by changing env_state
+WARNING (PartMC-532446093): kernel upper bound estimation is too tight, could be caused by changing env_state
+WARNING (PartMC-532446093): kernel upper bound estimation is too tight, could be caused by changing env_state
+WARNING (PartMC-532446093): kernel upper bound estimation is too tight, could be caused by changing env_state
+WARNING (PartMC-532446093): kernel upper bound estimation is too tight, could be caused by changing env_state
+WARNING (PartMC-532446093): kernel upper bound estimation is too tight, could be caused by changing env_state
+WARNING (PartMC-532446093): kernel upper bound estimation is too tight, could be caused by changing env_state
+WARNING (PartMC-532446093): kernel upper bound estimation is too tight, could be caused by changing env_state
+WARNING (PartMC-532446093): kernel upper bound estimation is too tight, could be caused by changing env_state
+WARNING (PartMC-532446093): kernel upper bound estimation is too tight, could be caused by changing env_state
+WARNING (PartMC-532446093): kernel upper bound estimation is too tight, could be caused by changing env_state
+WARNING (PartMC-532446093): kernel upper bound estimation is too tight, could be caused by changing env_state
+WARNING (PartMC-532446093): kernel upper bound estimation is too tight, could be caused by changing env_state
+WARNING (PartMC-532446093): kernel upper bound estimation is too tight, could be caused by changing env_state
+WARNING (PartMC-532446093): kernel upper bound estimation is too tight, could be caused by changing env_state
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1     0s    1443       0       0        0         0       0     0s     0s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1    30s    1441       2       0        0         0       0     5s    92s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1    60s    1440       1       0        0         0       0    13s   113s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1    90s    1438       2       0        0         0       0    20s   115s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1   120s    1437       1       0        0         0       0    29s   115s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1   150s    1435       2       0        0         0       0    51s   154s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1   180s    1434       1       0        0         0       0   279s   650s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1   210s    1430       4       0        0         0       0   749s  1391s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1   240s    1430       0       0        0         0       0  1134s  1701s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1   270s    1427       3       0        0         0       0  1492s  1824s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1   300s    1425       2       0        0         0       0  1834s  1834s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1   330s    1423       2       0        0         0       0  2162s  1769s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1   360s    1421       2       0        0         0       0  2481s  1654s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1   390s    1419       2       0        0         0       0  2791s  1503s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1   420s    1418       1       0        0         0       0  3091s  1325s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1   450s    1414       4       0        0         0       0  3383s  1128s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1   480s    1411       3       0        0         0       0  3675s   919s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1   510s    1406       5       0        0         0       0  3971s   701s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1   540s    1402       4       0        0         0       0  4266s   474s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1   570s    1402       0       0        0         0       0  4556s   240s
+repeat  t_sim  n_part  n_coag  n_emit n_dil_in n_dil_out   n_nuc t_wall  t_rem
+     1   600s    1401       1       0        0         0       0  4840s     0s
+ 
+Job finished at Sun Jun  2 14:08:33 CDT 2019
